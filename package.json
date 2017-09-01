@@ -13,6 +13,6 @@
   "license": "ISC",
   "dependencies": {
     "co": "^4.6.0",
-    "yeoman-generator": "^0.24.1"
+    "yeoman-generator": "^1.1.1"
   }
 }
